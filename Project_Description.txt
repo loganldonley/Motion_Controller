@@ -1,0 +1,3 @@
+Senior design project for Logan Donley and Perry Yang
+
+A wireless motion controller for physically impaired users suffering from diseases that may effect fine motor control abilities (Parkinsons, Cerebral Palsy, Severe Arthitis). The controller consists of a microcontroller (ATMEGA328P on board an Arduino Nano), an accelerometer (MPU6050), wireless transceiver (nRF24l01), and a rechargable Li-Po battery. The controller also communicates wirelessly to a receiver dongle device that connects to the gaming device via USB.
